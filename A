@@ -1,0 +1,69 @@
+1. What is interger : 
+integer is a whole a number thats writen in whole number positive or negative
+
+2. What is string   : 
+Strings are arrays of bytes representing Unicode characters. Example : 'hello' or "hello"
+
+3. What do you expect when learning coding? : 
+Understand the language that were learning, get to know more about technology. any many other things
+
+4. What is the impact for you while you learn about coding? :
+- Learn problem solving skills
+- Understand more about technology
+
+5. what is variable in python :
+Variables are containers for storing data values.
+
+Examples : 
+x = "ICT"
+print(x)
+
+6. What is list item in python :
+Lists are used to store multiple items in a single variable.
+
+Example : 
+ict = ["spins", "ict", "ok"]
+print(ict)
+
+7. Give 5 example of string variable
+
+a = "Hello"
+print(a)
+
+b = "ICT"
+print(qwerty)
+
+c = "SPINS"
+print(bosen)
+
+d = "gtw"
+print(YNTKS)
+
+e = "gtwjg"
+print(YNTKS)
+
+8. Explain about advantages of using computer :
+increase your productivity. Easier to use technology, many feature that need in our daily life that we can found lots in computes.
+
+9. What is the correlation between business and technology :
+As we know that technology has been used in lots of things in this world. technology has also helps alots of things that we needed in our daily life.
+business need technology also for growing theres instagram that many of today business that uses this apps to promote their business. 
+technology also helps business to reach out to their consumer more easier and more efective. as time goes on technology has alwas grow more and more bigger
+that they lauch lots of other things that helps in business industry and helps lots of people in their life. because there is technlogy people can start their own
+business from online this helps lots of people in this world to get a business running or get a job
+
+10. Gives 5 example of integer variable : 
+x = int(3.5)
+print(x)
+
+x = int("12")
+print(x)
+
+x = int("14")
+print(x)
+
+x = int("16")
+print(x)
+
+x = int("19")
+print(x)
